@@ -1,6 +1,6 @@
-module github.com/tinyzimmer/go-gst
+module github.com/pette9/go-gst
 
-go 1.16
+go 1.17
 
 require (
 	github.com/mattn/go-pointer v0.0.1
