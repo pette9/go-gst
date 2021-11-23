@@ -567,7 +567,7 @@ type ValueArrayValue glib.Value
 
 // ValueArray converts the given slice of Go types into a ValueArrayValue.
 // This function can return nil on any conversion or memory allocation errors.
-func ValueArray(ss []interface{}) *ValueArrayValue {
+/*func ValueArray(ss []interface{}) *ValueArrayValue {
 	v, err := glib.ValueAlloc()
 	if err != nil {
 		return nil
@@ -588,7 +588,7 @@ func ValueArray(ss []interface{}) *ValueArrayValue {
 	}
 	out := ValueArrayValue(*v)
 	return &out
-}
+}*/
 
 // Size returns the size of the array.
 func (v *ValueArrayValue) Size() uint {
@@ -625,7 +625,7 @@ type ValueListValue glib.Value
 
 // ValueList converts the given slice of Go types into a ValueListValue.
 // This function can return nil on any conversion or memory allocation errors.
-func ValueList(ss []interface{}) *ValueListValue {
+/*func ValueList(ss []interface{}) *ValueListValue {
 	v, err := glib.ValueAlloc()
 	if err != nil {
 		return nil
@@ -646,7 +646,7 @@ func ValueList(ss []interface{}) *ValueListValue {
 	}
 	out := ValueListValue(*v)
 	return &out
-}
+}*/
 
 // Size returns the size of the list.
 func (v *ValueListValue) Size() uint {
