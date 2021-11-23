@@ -8,8 +8,8 @@ import (
 	"os/signal"
 	"time"
 
+	"github.com/pette9/go-gst/gst"
 	"github.com/tinyzimmer/go-gst/examples"
-	"github.com/tinyzimmer/go-gst/gst"
 	"github.com/tinyzimmer/go-gst/gst/app"
 )
 

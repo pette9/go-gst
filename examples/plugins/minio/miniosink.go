@@ -7,8 +7,8 @@ import (
 	"strings"
 	"sync"
 
+	"github.com/pette9/go-gst/gst"
 	"github.com/tinyzimmer/go-glib/glib"
-	"github.com/tinyzimmer/go-gst/gst"
 	"github.com/tinyzimmer/go-gst/gst/base"
 )
 

@@ -17,7 +17,7 @@ import "C"
 import (
 	"unsafe"
 
-	"github.com/tinyzimmer/go-gst/gst"
+	"github.com/pette9/go-gst/gst"
 	"github.com/tinyzimmer/go-gst/gst/base"
 )
 

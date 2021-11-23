@@ -57,7 +57,7 @@ import (
     "strings"
 
     "github.com/tinyzimmer/go-glib/glib"
-    "github.com/tinyzimmer/go-gst/gst"
+    "github.com/pette9/go-gst/gst"
 )
 
 func main() {
