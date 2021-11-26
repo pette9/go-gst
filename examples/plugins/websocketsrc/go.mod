@@ -1,4 +1,4 @@
-module github.com/tinyzimmer/go-gst/examples/plugins/websocketsrc
+module github.com/pette9/go-gst/gst/examples/plugins/websocketsrc
 
 go 1.15
 

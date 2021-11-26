@@ -25,8 +25,8 @@ import (
 	"fmt"
 	"time"
 
-	"github.com/tinyzimmer/go-gst/examples"
 	"github.com/pette9/go-gst/gst"
+	"github.com/pette9/go-gst/gst/examples"
 )
 
 func tagsetter() error {

@@ -23,7 +23,7 @@ import (
 
 	gopointer "github.com/mattn/go-pointer"
 	"github.com/pette9/go-gst/gst"
-	"github.com/tinyzimmer/go-gst/gst/base"
+	"github.com/pette9/go-gst/gst/base"
 )
 
 // SourceCallbacks represents callbacks to configure on an AppSource.

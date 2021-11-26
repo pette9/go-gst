@@ -41,8 +41,8 @@ import (
 	"strings"
 
 	"github.com/pette9/go-gst/gst"
+	"github.com/pette9/go-gst/gst/base"
 	"github.com/tinyzimmer/go-glib/glib"
-	"github.com/tinyzimmer/go-gst/gst/base"
 )
 
 // main is left unimplemented since these files are compiled to c-shared.

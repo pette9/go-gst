@@ -25,7 +25,7 @@ import (
 	gopointer "github.com/mattn/go-pointer"
 
 	"github.com/pette9/go-gst/gst"
-	"github.com/tinyzimmer/go-gst/gst/base"
+	"github.com/pette9/go-gst/gst/base"
 )
 
 // SinkCallbacks represents callbacks that can be installed on an app sink when data is available.

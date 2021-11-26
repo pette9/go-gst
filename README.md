@@ -5,7 +5,7 @@ Go bindings for the GStreamer C libraries
 [![go.dev reference](https://img.shields.io/badge/go.dev-reference-007d9c?logo=go&logoColor=white&style=flat-rounded)](https://pkg.go.dev/github.com/tinyzimmer/go-gst)
 [![godoc reference](https://img.shields.io/badge/godoc-reference-blue.svg)](https://godoc.org/github.com/tinyzimmer/go-gst)
 [![GoReportCard](https://goreportcard.com/badge/github.com/nanomsg/mangos)](https://goreportcard.com/report/github.com/tinyzimmer/go-gst)
-![](https://github.com/tinyzimmer/go-gst/workflows/Tests/badge.svg)
+![](https://github.com/pette9/go-gst/gst/workflows/Tests/badge.svg)
 
 See the [godoc.org](https://godoc.org/github.com/tinyzimmer/go-gst) or [pkg.go.dev](https://pkg.go.dev/github.com/tinyzimmer/go-gst) references for documentation and examples.
 As the latter requires published tags, see godoc.org for the latest documentation of master at any point in time.
@@ -40,7 +40,7 @@ PS> $env:PKG_CONFIG_PATH='C:\gstreamer\1.0\mingw_x86_64\lib\pkgconfig'
 PS> go build .
 ```
 
-For more information, take a look at [this comment](https://github.com/tinyzimmer/go-gst/issues/3#issuecomment-760648278) with a good run down of the process from compilation to execution.
+For more information, take a look at [this comment](https://github.com/pette9/go-gst/gst/issues/3#issuecomment-760648278) with a good run down of the process from compilation to execution.
 
 ## Quickstart
 

@@ -9,9 +9,9 @@ import (
 	"os"
 	"strings"
 
-	"github.com/tinyzimmer/go-glib/glib"
-	"github.com/tinyzimmer/go-gst/examples"
 	"github.com/pette9/go-gst/gst"
+	"github.com/pette9/go-gst/gst/examples"
+	"github.com/tinyzimmer/go-glib/glib"
 )
 
 func runPipeline(mainLoop *glib.MainLoop) error {

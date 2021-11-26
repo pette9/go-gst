@@ -16,7 +16,7 @@ import (
 	"time"
 
 	"github.com/pette9/go-gst/gst"
-	"github.com/tinyzimmer/go-gst/gst/pbutils"
+	"github.com/pette9/go-gst/gst/pbutils"
 )
 
 func main() {

@@ -5,7 +5,7 @@ import "C"
 
 import (
 	"github.com/pette9/go-gst/gst"
-	"github.com/tinyzimmer/go-gst/gst/base"
+	"github.com/pette9/go-gst/gst/base"
 )
 
 func wrapAppSink(elem *gst.Element) *Sink {

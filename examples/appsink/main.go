@@ -9,8 +9,8 @@ import (
 	"time"
 
 	"github.com/pette9/go-gst/gst"
-	"github.com/tinyzimmer/go-gst/examples"
-	"github.com/tinyzimmer/go-gst/gst/app"
+	"github.com/pette9/go-gst/gst/app"
+	"github.com/pette9/go-gst/gst/examples"
 )
 
 func createPipeline() (*gst.Pipeline, error) {

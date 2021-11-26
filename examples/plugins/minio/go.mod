@@ -1,4 +1,4 @@
-module github.com/tinyzimmer/go-gst/examples/plugins/minio
+module github.com/pette9/go-gst/gst/examples/plugins/minio
 
 go 1.15
 

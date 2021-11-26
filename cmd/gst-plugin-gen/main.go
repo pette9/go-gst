@@ -138,7 +138,7 @@ import (
 
 	"github.com/pette9/go-gst/gst"
 	{{- if (.Config.Element.Subclass | extendsFromBase) }}
-	"github.com/tinyzimmer/go-gst/gst/base"
+	"github.com/pette9/go-gst/gst/base"
 	{{- end }}
 )
 
